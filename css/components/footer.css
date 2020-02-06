@@ -1,0 +1,26 @@
+footer {
+  background: #2c2b2a;
+  color: #6b6c6c;
+  opacity: 0.8;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.socials {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
+
+.socials i  {
+  margin: 10px;
+  font-size: 30px;
+  color: #1ddd88;
+}
+
+#heart {
+  color: red;
+}
